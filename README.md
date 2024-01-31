@@ -1,2 +1,3 @@
-# Elasticsearch-Training
-Elasticsearch Tutorial Notes
+# Elasticsearch Training
+## Elasticsearch Tutorial Notes
+### Created by Edward Capriolo
